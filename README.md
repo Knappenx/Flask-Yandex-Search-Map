@@ -67,6 +67,7 @@ The application finds locations or an address with 4 tested possible scenarios:
 ## Credits
 Followed freeCodeCamp.org Flask Tutorial at: 
 * https://www.youtube.com/watch?v=Z1RJmh_OqeA
+
 Formulas for distance calculation on Earth obtained from:
 * https://www.codegrepper.com/code-examples/
 * https://stackoverflow.com/questions/44743075/
