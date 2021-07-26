@@ -27,31 +27,31 @@ Project was created with:
 
 ## Setup
 In a Terminal, located in our project's folder we're going to create a virtual environment:
-'''
+```
 virtualenv venv
-'''
+```
 After creating it, we will proceed to activate it.
 Linux/Mac:
-'''
+```
 source venv/bin/activate
-'''
+```
 Windows:
-'''
+```
 venv/Scripts/activate
-'''
+```
 Once our virtuel environment is active we will install Flask:
-'''
+```
 pip install flask
-'''
+```
 On the main folder it will be necessary to create a config.py file in which we will enter our API and Flask Secret keys as follows:
-'''
+```
 API_KEY = "Your_API_KEY"
 SECRET_KEY = "Your_Secret_Key"
-'''
+```
 To run the project we execute the following command:
-'''
+```
 python main.py
-'''
+```
 
 ## Usage
 The use of the application is simple.
