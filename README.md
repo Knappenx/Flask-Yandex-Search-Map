@@ -55,18 +55,21 @@ python main.py
 
 ## Usage
 The use of the application is simple.
+
 The main site shows a Yandex map with Moscow's Ring Road (MKAD) marked in blue, followed by an Input box and Search button.
+
 The application finds locations or an address with 4 tested possible scenarios:
-    - Empty string: Asks the user to enter a location
-    - Invalid locations: If the location entered is not valid, will prompt that the location didn't give any results.
-    - Location within MKAD: Pin in red color showing the desired location.
-    - Location outise MKAD: Pin in blue color showing the desired location with the distance in Km to the MKAD. 
+* Empty string: Asks the user to enter a location
+* Invalid locations: If the location entered is not valid, will prompt that the location didn't give any results.
+* Location within MKAD: Pin in red color showing the desired location.
+* Location outise MKAD: Pin in blue color showing the desired location with the distance in Km to the MKAD. 
 
 ## Credits
-Followed freeCodeCamp.org Flask Tutorial at: https://www.youtube.com/watch?v=Z1RJmh_OqeA
+Followed freeCodeCamp.org Flask Tutorial at: 
+* https://www.youtube.com/watch?v=Z1RJmh_OqeA
 Formulas for distance calculation on Earth obtained from:
-    - https://www.codegrepper.com/code-examples/
-    - https://stackoverflow.com/questions/44743075/
+* https://www.codegrepper.com/code-examples/
+* https://stackoverflow.com/questions/44743075/
 
 ## License
 MIT License
