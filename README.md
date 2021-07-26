@@ -72,6 +72,10 @@ Formulas for distance calculation on Earth obtained from:
 * https://www.codegrepper.com/code-examples/
 * https://stackoverflow.com/questions/44743075/
 
+Other support material:
+* Yandex developer documentation
+* Flask official documentation
+
 ## License
 MIT License
 
