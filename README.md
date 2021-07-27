@@ -39,7 +39,7 @@ Windows:
 ```
 venv/Scripts/activate
 ```
-Once our virtuel environment is active we will install Flask:
+Once our virtual environment is active we will install Flask:
 ```
 pip install flask
 ```
