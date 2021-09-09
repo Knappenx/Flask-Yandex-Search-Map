@@ -1,5 +1,5 @@
 '''
-@project TEST TASK
+@project Yandex API distance calculator
 @author Xavier Nahim Abugannam Monteagudo
 @date 2021-07-25
 @brief:
