@@ -4,20 +4,11 @@ Develop a Flask Blueprint to find the distance from the Moscow Ring Road to the 
 
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
-- [Requirements](#requirements)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Credits](#credits)
 - [Licence](#license)
-
-## Requirements
-Requirements:
-1. The address is transmitted via an HTTP request
-2. The functions and algorithms used are provided with informative comments
-3. The tests are arranged in a separate file
-4. Documentation in the form of readme.md the file contains instructions for using the application
-5. PEP8 code compliance and use of type annotations
 
 ## Technologies
 Project was created with:
